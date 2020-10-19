@@ -1,4 +1,4 @@
-FROM openshift/openjdk-11-rhel7
+FROM openshift/openjdk-8-rhel7
 MAINTAINER "TESTER"
 LABEL description="this is a jar test"
 WORKDIR app
